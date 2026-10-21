@@ -85,7 +85,7 @@ end
 
 ## Linking to TowerWeb
 
-If your application also uses [TowerWeb](https://github.com/mimiquate/tower_web) to store and browse events, each Slack message includes a "View occurrence in Tower Web" link to that exact occurrence in the dashboard. To enable it, see TowerWeb's [Occurrence URLs](https://github.com/mimiquate/tower_web#occurrence-urls) section.
+If your application also uses [TowerWeb](https://github.com/mimiquate/tower_web) to store and browse events, each Slack message includes a "View occurrence in Tower Web" link to that exact occurrence in the dashboard. To enable it, set TowerWeb's `base_url` as described in its [setup](https://github.com/mimiquate/tower_web).
 
 ## License
 
